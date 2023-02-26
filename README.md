@@ -2,6 +2,7 @@
 
 - [1. 阅读背景](#1-阅读背景)
 - [2.笔记内容](#2笔记内容)
+- [3. 参考资源](#3-参考资源)
 
 # 1. 阅读背景
 最近也在做更多软件构建相关的工作，很多东西没有一个主要的系统性流程，存在很多内容的缺失，知识点在实战中，也存在质量性的问题，所以决定阅读一下这本书，并记录下学习的笔记。
@@ -32,3 +33,7 @@
 |VI|「System Considerations」|
 |VII|「Software Craftmanship」|
 
+# 3. 参考资源
+- [《Code Complete》2 edition](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf) 英文版
+
+- 《代码大全》第2版 中文版
