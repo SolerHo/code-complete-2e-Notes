@@ -23,10 +23,10 @@
 
 # 2.笔记内容
 
-|Part|Part Title|
-|--|--|
-|I|「[Laying the Foundation](./docs/part01/README.md)」|
-|II|「Creating High-Quality Code」|
+|Part|Part Title|Chapter List|
+|--|--|--|
+|I|「[Laying the Foundation](./docs/part01/README.md)」|Chapter 01 欢迎进入软件构件的世界<br>Chapter 02 用隐喻来更充分理解软件开发<br>Chapter 03 前期准备<br>Chapter 04 关键的“构建”决策|
+|II|「Creating High-Quality Code」|Chapter 05 软件构建中的设计<br>Chapter 06 可以工作的类<br>Chapter 07 高质量的子程序<br>Chapter 08 防范式编程<br>Chapter 09 伪代码编程过程|
 |III|「Variables」|
 |IV|「Statements」|
 |V|「Code Improvements」|
